@@ -10,4 +10,27 @@
 </p>
 
 - 기능
+  - 보호소 찾기
+  <p align="left" width="100%" height="50%">
+    <img src="./img/shelter.PNG" width="25%" alt="목표"></img>
+    <img src="./img/shelter2.PNG" width="25%" alt="목표"></img>
+    <img src="./img/shelter3.PNG" width="25%" alt="목표"></img>
+  </p>
 
+  - 유기견 등록하기
+  주변에서 발견한 유기견을 등록할 수 있는 페이지입니다.
+  <p align="left" width="100%" height="50%">
+    <img src="./img/lost.PNG" width="25%" alt="목표"></img>
+    <img src="./img/lost2.PNG" width="25%" alt="목표"></img>
+    <img src="./img/lost3.PNG" width="25%" alt="목표"></img>
+  </p>
+
+  - 임시 보호 신청하기
+  입양은 부담스럽거나 작게 나마 유기견들에게 도움을 주고자 하는 분들은</br>
+  임시 보호를 통해 실천할 수 있습니다.
+   <p align="left" width="100%" height="50%">
+    <img src="./img/foster.PNG" width="25%" alt="목표"></img>
+    <img src="./img/foster2.PNG" width="25%" alt="목표"></img>
+    <img src="./img/foster3.PNG" width="25%" alt="목표"></img>
+  </p>
+  
