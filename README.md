@@ -6,5 +6,8 @@
 <p align="left" width="100%" height="50%">
   <img src="./img/history.PNG" width="25%" alt="목표"></img>
   <img src="./img/goal.PNG" width="25%" alt="목표"></img>
-  <img src="./img/goal.PNG" width="25%" alt="목표"></img>
+  <img src="./img/outcome.PNG" width="25%" alt="목표"></img>
 </p>
+
+- 기능
+
